@@ -1,8 +1,6 @@
-﻿using System.Runtime.CompilerServices;
-
-namespace KmMeterFormatter
+﻿namespace KmMeterFormatter
 {
-    public static class KmMeterFormatter
+    public class KmMeterFormatter
     {
         public static string ConcatKmMeter(string km, string meter, string separator)
         {
